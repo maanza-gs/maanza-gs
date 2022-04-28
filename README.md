@@ -2,4 +2,3 @@
 
 - 😄 Pronouns: She/ her
 - 🌱 I’m currently am a student in PSG Tech, pursuing MSc Software Systems
-- 📫 How to reach me: maanasa.gs@gmail.com
