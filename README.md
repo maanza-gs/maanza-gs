@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30px"/>
 </h3>
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
