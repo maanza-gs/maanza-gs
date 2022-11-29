@@ -2,14 +2,8 @@
   <img src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/maanasa-s-a24812211/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
   </a>
 </div>
 
@@ -33,7 +27,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maanza-gs&layout=compact&theme=vision-friendly-dark)](https://github.com/maanza-gs/github-readme-stats)
