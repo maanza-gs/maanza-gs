@@ -45,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanza-gs&show_icons=true&locale=en&layout=compact" alt="maanza-gs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanza-gs&show_icons=true&locale=en" alt="maanza-gs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maanza-gs&" alt="maanza-gs" /></p>
