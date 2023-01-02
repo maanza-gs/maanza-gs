@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Maanasa</h1>
-<h3 align="center">A student UI/UX designer and a full stack developer.</h3>
+<h1 align="center">Welcome to Maanasa's profile</h1>
+<p>Hi</p>
+<hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanza-gs" alt="maanza-gs" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,3 +43,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanza-gs&show_icons=true&locale=en&layout=compact" alt="maanza-gs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanza-gs&show_icons=true&locale=en" alt="maanza-gs" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanza-gs" alt="maanza-gs" /></a> </p>
