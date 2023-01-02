@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to Maanasa's profile</h1>
-<p>Hi</p>
-<hr/>
+
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 <h3 align="left">Connect with me:</h3>
