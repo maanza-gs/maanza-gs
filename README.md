@@ -24,13 +24,23 @@
 <h1 align="left">Skills:</h1>
 <h2>Languages:</h2>
 <p><img src = "https://img.shields.io/badge/python-%23F24E1E.svg?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
+<img src = "https://img.shields.io/badge/sql-%23F24E1E.svg?style=for-the-badge&logo=sql&logoColor=white" alt = "sql" /></p>
 <img src = "https://img.shields.io/badge/c-%23F24E1E.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c" />
 <img src = "https://img.shields.io/badge/cplusplus-%23F24E1E.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt = "c++" />
 <img src = "https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" /></p>
+
+<h2>Front-End Development:</h2>
+<p><img src = "https://img.shields.io/badge/html5-%23F24E1E.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "html5" />
+<img src = "https://img.shields.io/badge/css3-%23F24E1E.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "css3" />
+<img src = "https://img.shields.io/badge/bootstrap-%23F24E1E.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap" />
+<img src = "https://img.shields.io/badge/javascript-%23F24E1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt = "javascript" /></p>
+<img src = "https://img.shields.io/badge/react-%23F24E1E.svg?style=for-the-badge&logo=react&logoColor=white" alt = "react" />
 
 <h2>Tools:</h2>
 <p><img src = "https://img.shields.io/badge/adobe%20photoshop-%23F24E1E.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
 <img src = "https://img.shields.io/badge/adobe%20xd-%23F24E1E.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt = "xd" />
 <img src = "https://img.shields.io/badge/adobe%20illustrator-%23F24E1E.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
 <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" /></p>
+
+
 
