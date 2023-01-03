@@ -12,7 +12,7 @@
 
 <p align="left">
   <h3 align="left">Connect with me:</h3>
-  <a href="https://linkedin.com/in/maanasa-s-a24812211" target="blank"><img src="https://img.shields.io/badge/LinkedIn-371359?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/maanasa-s-a24812211" target="blank"><img src="https://img.shields.io/badge/LinkedIn-200936?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 
