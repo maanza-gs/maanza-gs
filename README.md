@@ -17,7 +17,7 @@
 </p>
 
 ## About Me
-```mongodb
+```Mongodb
   Maanasa = { Location: "India",
     Talents : {1:"Singer', 2:"Keyboardist', 3:"Tennis Player"},
     Hobbies : {'Love to read books', 'Anime <3'},
@@ -38,6 +38,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Github stats:
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanza-gs&theme=dracula&column=7" alt="maanza-gs" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanza-gs&theme=radical&column=7" alt="maanza-gs" /></a><br>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=maanza-gs&theme=radical&show_icons=true&count_private=true" /></p>
 
