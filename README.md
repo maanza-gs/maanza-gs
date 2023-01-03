@@ -16,7 +16,14 @@
   <a href="https://dribbble.com/aqianlix" target="blank"><img src="https://img.shields.io/badge/dribbble-%230077B5.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-
+## About Me
+```mongodb
+  Maanasa = { Location: "India",
+    Talents : {1:"Singer', 2:"Keyboardist', 3:"Tennis Player"},
+    Hobbies : {'Love to read books', 'Anime <3'},
+    University : "PSG College of Technology"
+  }
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
@@ -46,7 +53,7 @@
 <img src = "https://img.shields.io/badge/adobe%20illustrator-%23F24E1E.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
 <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" /></p>
 
-<h2>Others:</h2>
+<h2>Currently Learning:</h2>
 <p><img src = "https://img.shields.io/badge/flask-%23F24E1E.svg?style=for-the-badge&logo=flask&logoColor=white" alt = "flask" />
 <img src = "https://img.shields.io/badge/react-%23F24E1E.svg?style=for-the-badge&logo=react&logoColor=white" alt = "react" />
 <img src = "https://img.shields.io/badge/android%20studio-%23F24E1E.svg?style=for-the-badge&logo=android%20studio&logoColor=white" alt = "android studio" /></p>
