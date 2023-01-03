@@ -1,8 +1,12 @@
-<h1 align="center">Welcome to Maanasa's profile</h1>
+<h1 align="center">Hi! I'm Maanasa. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ww7unglc4hamcl8zpmpg09bcv0n47c3n27pandr4&rid=giphy.gif&ct=g"></p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&background=53F8FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+a+Full+Stack+Developer.;I'm+a+UI%2FUX+Designer.;A+Computer+Science+Student.">
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
