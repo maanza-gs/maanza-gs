@@ -26,35 +26,14 @@
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1 align="left">Skills:</h1>
-<h2>Languages:</h2>
-<p><img src = "https://img.shields.io/badge/python-%230077B5.svg?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
-<img src = "https://img.shields.io/badge/c-%230077B5.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c" />
-<img src = "https://img.shields.io/badge/cplusplus-%230077B5.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt = "c++" />
-<img src = "https://img.shields.io/badge/java-%230077B5.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" /></p>
+## Skills:
 
-<h2>Web Development:</h2>
-<p><img src = "https://img.shields.io/badge/html5-%230077B5.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "html5" />
-<img src = "https://img.shields.io/badge/css3-%230077B5.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "css3" />
-<img src = "https://img.shields.io/badge/bootstrap-%230077B5.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap" />
-<img src = "https://img.shields.io/badge/javascript-%230077B5.svg?style=for-the-badge&logo=javascript&logoColor=white" alt = "javascript" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,bootstrap,tailwind,javascript,php,mysql,mongodb,firebase,postgres,,sqlite,r,react,flask,ae,pr,photoshop,illustrator,xd,figma,androidstudio,linux, netlify" />
+  </a>
+</p>
 
-<h2>Databases:</h2>
-<p><img src = "https://img.shields.io/badge/mysql-%230077B5.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
-<img src = "https://img.shields.io/badge/oracle-%230077B5.svg?style=for-the-badge&logo=oracle&logoColor=white" alt = "oracle" />
-<img src = "https://img.shields.io/badge/mongodb-%230077B5.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
-<img src = "https://img.shields.io/badge/firebase-%230077B5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt = "firebase" /></p>
 
-<h2>Tools:</h2>
-<p><img src = "https://img.shields.io/badge/adobe%20photoshop-%230077B5.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-<img src = "https://img.shields.io/badge/adobe%20xd-%230077B5.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt = "xd" />
-<img src = "https://img.shields.io/badge/adobe%20illustrator-%230077B5.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-<img src = "https://img.shields.io/badge/figma-%230077B5.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" /></p>
-
-<h2>Currently Learning:</h2>
-<p><img src = "https://img.shields.io/badge/flask-%230077B5.svg?style=for-the-badge&logo=flask&logoColor=white" alt = "flask" />
-<img src = "https://img.shields.io/badge/react-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" alt = "react" />
-<img src = "https://img.shields.io/badge/android%20studio-%230077B5.svg?style=for-the-badge&logo=android%20studio&logoColor=white" alt = "android studio" /></p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
