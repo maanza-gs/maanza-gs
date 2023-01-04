@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ww7unglc4hamcl8zpmpg09bcv0n47c3n27pandr4&rid=giphy.gif&ct=g"></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=50 0&background=53F8FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+a+Full+Stack+Developer.;I'm+a+UI%2FUX+Designer.;A+Computer+Science+Student.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=50 0&background=53F8FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+a+Full+Stack+Developer.;I'm+a+UI%2FUX+Designer.;A+Software+Systems+Student.">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -42,5 +42,16 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanza-gs&theme=radical&column=7" alt="maanza-gs" /></a><br>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maanza-gs&theme=radical&show_icons=true&count_private=true" /></p>
+<br/>
+<table border="0" align="center">
+<tr border="0">
+  <td width="50%" align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=maanza-gs&amp;show_icons=true&amp;theme=radical" alt="sherlin's GitHub stats">
+    
+  </td>
 
+  <td width="50%" align="center">
+    <img src="https://streak-stats.demolab.com?user=maanza-gs&amp;theme=radical&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </td>
+</tr>
+</table>
