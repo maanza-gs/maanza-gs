@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanza-gs&show_icons=true&hide_border=true&theme=radical" width="30%" alt="Maanasa's Top Languages">
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanza-gs&theme=radical" width="30%" alt="Maanasa's Top Languages">
 
 <p align="left">
   <h3 align="left">Connect with me:</h3>
