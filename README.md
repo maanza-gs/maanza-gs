@@ -19,9 +19,9 @@
 
 
 ## About Me
-```Mongodb
+```Python
   Maanasa = { Location: "India",
-    Talents : {1:"Singer', 2:"Keyboardist', 3:"Tennis Player"},
+    Talents : {1:"Singer", 2:"Keyboardist", 3:"Tennis Player"},
     Hobbies : {'Love to read books', 'Anime <3'},
     University : "PSG College of Technology"
   }
